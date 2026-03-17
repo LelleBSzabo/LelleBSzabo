@@ -15,21 +15,42 @@
 
 ---
 
-## 🛠️ Data Analytics Toolbox
+## 🛠️ Data Analytics Skills
 
-### 📊 Data Analysis & Querying
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+### 📊 Microsoft Excel
+- 📈 Pivot Tables & Pivot Charts  
+- 🧮 Advanced Formulas & Functions (e.g., VLOOKUP, IF, INDEX-MATCH)  
+- 📊 Data Cleaning & Analysis  
+- 📌 Dashboard Creation & Reporting  
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-### 📉 Data Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📉 Tableau
+- 📊 Interactive Dashboards  
+- 📈 Data Visualization & Storytelling  
+- 🔍 Trend Analysis & Insights Generation  
 
-### ☁️ Cloud & Data Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+---
+
+### 📊 Power BI
+- 🔄 Data Transformation using Power Query  
+- 📊 Dashboard Development & Reporting  
+- 📈 Business Intelligence Insights  
+
+---
+
+### 🗄️ MySQL
+- 🧩 Database Management  
+- 🔍 Writing Queries for Data Extraction  
+- 🔗 Joins (INNER, LEFT, RIGHT)  
+- 📌 Filtering & Aggregation (WHERE, GROUP BY, ORDER BY)  
+
+---
+
+### 🐍 Python (Pandas)
+- 🧹 Data Cleaning & Preprocessing  
+- 📊 Data Analysis using Pandas Library  
+- ⚙️ Working with DataFrames & Key Methods (filtering, grouping, merging)  
 
 ---
 
